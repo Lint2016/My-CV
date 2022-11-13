@@ -1,0 +1,98 @@
+#intro {
+  background-color: #A45D5D;
+  line-height: 1rem;
+  padding: 2rem;
+  border: 8px solid #FDFDBD;
+}
+
+#contact {
+  margin: 0 0 4rem 0;
+  background-color: #FDFDBD;
+  padding: 5% 10%;
+  margin-bottom: 0;
+}
+
+#educ {
+  background-color: #FDFDBD;
+  text-align: center;
+}
+
+#skills {
+  background-color: #FDFDBD;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.table {
+  margin-top: 5%;
+}
+
+#history {
+  background-color: #FDFDBD;
+  padding: 2rem;
+  text-align: justify;
+  margin: 0;
+}
+
+#reference {
+  text-align: center;
+  padding: 7% 10%;
+  background-color: #FDFDBD;
+}
+
+#menu {
+  text-align: center;
+  background-color: #FDFDBD;
+}
+
+footer {
+  text-align: center;
+  background-color: #A45D5D;
+  border: 8px solid #FDFDBD;
+  padding: 2% 2%;
+}
+
+.occupation {
+  padding-top: 4%;
+}
+
+.refs {
+  line-height: 1.5rem;
+  padding-top: 4%;
+}
+
+.h2 {
+  font-family: "Montserrat-black,sans serif";
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+.photo {
+  width: 80%;
+}
+
+.dropdown-menu {
+  background-color: #FFCB42;
+  font-family: "Montserrat-black,sans serif";
+  width: 70%;
+}
+
+.btn {
+  margin-top: 5%;
+}
+
+hr {
+  width: 40%;
+  border-color: black;
+  margin-left: 0;
+  height: 30px;
+}
+
+.study-box {
+  padding-top: 3%;
+  line-height: 1.5rem;
+}
+
+.skill-set {
+  padding-top: 5%;
+}
